@@ -1,3 +1,6 @@
 # Miscellaneous patches and scripts
 ### Currently in use on my Kobo Libra Color
-* [https://github.com/jacobfresco/kobo-misc/tree/main/kobo-patch](Kobo Patch)
+* [Kobo Patch](https://github.com/jacobfresco/kobo-misc/tree/main/kobo-patch)
+* [Nickel Menu]()
+* [Nickel Clock]()
+* 
