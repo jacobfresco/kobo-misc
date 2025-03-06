@@ -1,5 +1,15 @@
 # kobo-patch
-### nickel.yaml - Active patches
+## Over Kobo Patch
+Kobo-Patch is een verzameling patches voor Kobo ereaders die het mogelijk maken om bepaalde instellingen en onderdelen in de layout aan te passen naar je eigen smaak.
+
+Informatie: [https://pgaskin.net/kobopatch-patches/]
+
+GitHub Repo: [https://github.com/pgaskin/kobopatch-patches]
+
+Discussie Forum: [https://www.mobileread.com/forums/showpost.php?p=3774914]
+
+## Mijn actieve patches
+### 📁 nickel.yaml
 Dictionary pop-up - increase available text area:
   - Enabled: yes
   - Description: |
