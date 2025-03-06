@@ -1,4 +1,4 @@
-# kobo-patch
+# nickelclock
 ### settings.ini
 ```
 [General]
