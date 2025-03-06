@@ -1,5 +1,5 @@
 # kobo-patch
-### nickel.yaml
+### nickel.yaml - Active patches
 Dictionary pop-up - increase available text area:
   - Enabled: yes
   - Description: |
