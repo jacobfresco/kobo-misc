@@ -1,5 +1,16 @@
 # nickel-menu
-### 
+## Informatie
+NickelMenu is een volledig aanpasbaar menu voor Kobo ereaders (Nickel). Het draait naast het 'gewone' menu van de ereader
+
+Informatie: [https://pgaskin.net/NickelMenu/]
+
+Documentatie: [https://github.com/pgaskin/NickelMenu/blob/v0.5.4/res/doc]
+
+GitHub Repo: [https://github.com/pgaskin/NickelMenu]
+
+Discussie Forum: [https://www.mobileread.com/forums/showthread.php?t=329525]
+## Mijn NickelMenu config
+### 📁 [nm_menu.conf](https://github.com/jacobfresco/kobo-misc/blob/main/nickel-menu/nm_menu.conf)
 ```
 ##########################################
 ######## NickelMenu configuration ########
