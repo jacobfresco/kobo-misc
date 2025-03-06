@@ -9,7 +9,7 @@ GitHub Repo: [https://github.com/pgaskin/kobopatch-patches]
 Discussie Forum: [https://www.mobileread.com/forums/showpost.php?p=3774914]
 
 ## Mijn actieve patches
-### 📁 nickel.yaml
+### 📁 [nickel.yaml](https://github.com/jacobfresco/kobo-misc/blob/main/kobo-patch/nickel.yaml)
 Dictionary pop-up - increase available text area:
   - Enabled: yes
   - Description: |
