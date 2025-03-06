@@ -9,3 +9,11 @@ Dictionary pop-up - increase available text area:
       fw 4.10.11591, Kobo removed access to the code which specifies pop-up frame size.
       fw 4.12.12111, Kobo removed access to the code which could reduce footer size.
       fw 4.20.14601  Kobo added new DictionaryViewFooter CSS stream to control footer height again.
+
+Remove footer (row3) and increase cover size on new home screen:
+  - Enabled: yes
+  - PatchGroup: Home screen layout tweaks
+  - Description: |
+      Combines two patches together which share the same PatchGroup:
+      - `Increase home screen cover size`
+      - `Remove footer (row3) on new home screen`
