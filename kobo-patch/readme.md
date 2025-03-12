@@ -28,14 +28,3 @@ Remove footer (row3) and increase cover size on new home screen:
       - `Increase home screen cover size`
       - `Remove footer (row3) on new home screen`
 
-### 📁 [libnickel.so.1.0.0.yaml](https://github.com/jacobfresco/kobo-misc/blob/main/kobo-patch/libnickel.so.1.0.0.yaml)
-My 24 line spacing values:
-  - Enabled: yes
-  - PatchGroup: Line spacing values alternatives
-  - Description: |
-      This patch changes the values on the line spacing adjustment slider,
-      increasing the number of spacing options from 15 to 24, and allowing
-      much narrower spacing values to be set.
-    # basically rewrite the entire code starting where values are added:
-    # save r5, initialise loop counter
-
