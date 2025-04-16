@@ -5,10 +5,10 @@ Calibre is een tool om epubs te beheren (bibliotheek) en te sideloaden op ereade
 ## Comics naar een specifieke map
 Op mijn ereader staat in de root de map _Comics. Deze map bevat alle comics (.cbr) die door Calibre op mijn KLC gesideload worden. In het bestand [Kobo eReader.conf](https://github.com/jacobfresco/kobo-misc/blob/main/calibre/Kobo%20eReader.conf) heb ik opgenomen dat deze map niet wordt geindexeerd door Nickel (de Kobo UI) waardoor ze niet zichtbaar zijn als ik in het hoofdscherm van mijn Kobo zit. 
 
-`
+```
 [FeatureSettings]
 ExcludeSyncFolders=(\\.(?!kobo|adobe).+|_.*|([^.][^/]*/)+\\..+)
-`
+```
 
 Iformatie: [https://pgaskin.net/NickelMenu/]
 
