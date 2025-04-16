@@ -10,6 +10,17 @@ Op mijn ereader staat in de root de map _Comics. Deze map bevat alle comics (.cb
 ExcludeSyncFolders=(\\.(?!kobo|adobe).+|_.*|([^.][^/]*/)+\\..+)
 ```
 
+Om ervoor te zorgen dat Calibre alleen comics in deze map zet en epubs op de standaard manier sideloaded naar de KLC, heb ik een aangepaste template gemaakt die kijkt naar de custom column '#iscomic' in Calibre. Staat deze op Ja/Yes, dan wordt de comic in /_Comics geplaatst.
+
+```
+program:
+	if check_yes_no("#iscomic", 0 , 0 , 1) then
+		'_Comics/' & field('title') & ' - ' & field('authors')
+	else
+		field('author_sort') & '/' & field('title') & ' - ' & field('authors')
+	fi
+```
+
 Iformatie: [https://pgaskin.net/NickelMenu/]
 
 Documentatie: [https://github.com/pgaskin/NickelMenu/blob/v0.5.4/res/doc]
