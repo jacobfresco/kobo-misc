@@ -15,7 +15,7 @@ Download: [Calibre 8.2.100](https://calibre-ebook.com/download)
 ### Kobo Utilities
 Met deze plugin maak je de toch al krachtige combinatie Calibre - Kobo ereader nog krachtiger. Je kan je epubs automatisch laten converteren naar kepub voordat deze naar de Kobo worden gesynchroniseerd. Dit zorgt op de Kobo voor lees statistieken per boek en een snellere leeservating. Wil je een meer in-depth vergelijking tussen de twee formaten, lees dan [deze forum thread](https://www.mobileread.com/forums/showthread.php?t=343765) op MobileRead. 
 
-Kobo Utilities allows you to setting the collection for a book, as opposed to doing it manually on the Kobo itself. Also, it syncs the reading progress back to Calibre for you to see. You can backup the .sqlite database if you want. In case of a factory reset, you can just copy it back and have all your reading stats back. 
+Kobo Utilities geeft je de mogelijkheid om boeken in Calibre toe te voegen aan een verzameling ('collecties'). Normaal gesproken doe je dit per boek op de Kobo zelf. Ook synct de plugin de leesvoortgang terug naar Calibre (percentage gelezen, nog te lezen tijd, gelezen tijd etc.). De .sqlite database op de Kobo kan met deze plugin worden gebackupped waardoor je deze ook weer kan terugzetten na een (onvrijwillige) factory reset.
 
 ### Smart Eject
 Deze plugin geeft je de mogelijkheid om bij het loskoppelen van de Kobo (iets wat je echt moet doen om crashes en data verlies te voorkomen) de boeken te tonen die of niet op de Kobo staan, maar wel in Calibre, of andersom; de boeken die wel in Calibre staan en niet op de Kobo. Dit maakt het mogelijk om snel te controleren welke boeken er eventueel nog gesynchroniseerd moeten worden (of niet, dat kan natuurlijk ook)
