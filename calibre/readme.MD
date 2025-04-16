@@ -12,7 +12,7 @@ ExcludeSyncFolders=(\\.(?!kobo|adobe).+|_.*|([^.][^/]*/)+\\..+)
 
 Om ervoor te zorgen dat Calibre alleen comics in deze map zet en epubs op de standaard manier sideloaded naar de KLC, heb ik een aangepaste template gemaakt die kijkt naar de custom column '#iscomic' in Calibre. Staat deze op Ja/Yes, dan wordt de comic in /_Comics geplaatst.
 
-```
+```calibre
 program:
 	if check_yes_no("#iscomic", 0 , 0 , 1) then
 		'_Comics/' & field('title') & ' - ' & field('authors')
