@@ -6,5 +6,5 @@
 * [Calibre config](https://github.com/jacobfresco/kobo-misc/tree/main/calibre)
   
 ### Screenshots
-<img src="https://github.com/jacobfresco/kobo-misc/blob/main/images/screen_003.png" width="200"> <img src="https://github.com/jacobfresco/kobo-misc/blob/main/images/screen_004.png" width="200"> <img src="https://github.com/jacobfresco/kobo-misc/blob/main/images/screen_005.png" width="200"> <img src="https://github.com/jacobfresco/kobo-misc/blob/main/images/screen_006.png" width="200">
+<img src="https://github.com/jacobfresco/kobo-misc/blob/main/images/screen_001.png" width="200"> <img src="https://github.com/jacobfresco/kobo-misc/blob/main/images/screen_002.png" width="200"> <img src="https://github.com/jacobfresco/kobo-misc/blob/main/images/screen_003.png" width="200"> <img src="https://github.com/jacobfresco/kobo-misc/blob/main/images/screen_004.png" width="200">
 
