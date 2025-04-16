@@ -49,10 +49,13 @@ Om de comics te lezen gebruik ik KOReader, een alternatieve lezer voor de Kobo f
 ## Main Menu
 menu_item: main : Comics (KOReader) : cmd_spawn : quiet : exec /mnt/onboard/.adds/koreader/koreader.sh
 ```
+Ook KOReader slaat z'n instellingen 'gewoon' op een text-based bestand. Dit bestand is 📁 [settings.reader.lua](https://github.com/jacobfresco/kobo-misc/blob/main/calibre/settings.reader.lua) en is te vinden in /.adds/koreader. Als je mijn versie bekijkt, zul je zien dat ik in KOReader de directory heb 'gelocked' op /_Comics. Op die manier kan ik niet per ongeluk uit de directory komen en ineens boeken aanklikken (OCD, ik weet het). 
 
-## Software
+## Overige software
 
-Calibre
-KOReader
-Kobo Annotation Exporter
+### Kobo Annotation Exporter
+Mijn Kobo Libra Colour heeft de mogelijkheid om annotaties te maken (indien je een ondersteunde stylus gebruikt). Helaas heeft Kobo (nog) niet goed nagedacht over het exporteren van deze annotaties. Dus ben ik er zelf maar ingedoken. Ik heb redelijk wat ervaring met programmeren, maar in dit geval heb ik het overgelaten aan 🌐[cursor AI](https://cursor.com). Het resultaat: de Kobo Annotation Exporter.
 
+Het is voor nu nog een redelijk simpele oplossing. Kleuren worden nog niet ondersteund en de export is in alle gevallen naar Joplin (omdat ik die app religieus gebruik voor zo'n beetje alles). In de toekomst is het de bedoeling dat je ook 'gewoon' naar een map of HTML kan exporteren. Mocht je nu Joplin gebruiken en zitten te springen om je annotaties te exporeren, je kan Kobo Annotation Exporter downloaden in de [GitHub-repo](https://github.com/jacobfresco/kobo-annotation-exporter)
+
+Release download: [GitHub](https://github.com/jacobfresco/kobo-annotation-exporter/releases/tag/kobo) / [Changelog](https://github.com/jacobfresco/kobo-annotation-exporter/commits/kobo)
