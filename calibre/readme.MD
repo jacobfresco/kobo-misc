@@ -23,8 +23,8 @@ program:
 
 ## Plugins
 
-KoboUtilities
-KoboTouch
+- [KoboUtilities](https://www.mobileread.com/forums/showthread.php?t=215339)
+- [SmartEject](https://github.com/JimmXinu/SmartEject)
 
 ## Software
 
