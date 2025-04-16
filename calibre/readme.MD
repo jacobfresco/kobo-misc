@@ -21,14 +21,14 @@ program:
 	fi
 ```
 
-Iformatie: [https://pgaskin.net/NickelMenu/]
-
-Documentatie: [https://github.com/pgaskin/NickelMenu/blob/v0.5.4/res/doc]
-
-GitHub Repo: [https://github.com/pgaskin/NickelMenu]
-
-Discussie Forum: [https://www.mobileread.com/forums/showthread.php?t=329525]
 ## Plugins
+
 KoboUtilities
 KoboTouch
+
+## Software
+
+Calibre
+KOReader
+Kobo Annotation Exporter
 
