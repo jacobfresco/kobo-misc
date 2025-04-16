@@ -1,6 +1,9 @@
-# Calibre
-## Informatie
+# Calibre in combinatie met een Kobo ereader
+## Calibre
+### Informatie
 Calibre is een tool om epubs te beheren (bibliotheek) en te sideloaden op ereaders. Om Calibre fatsoenlijk te gebruiken in combinatie met Kobo-ereaders, zijn er een paar plugins nodig. Daarnaast heb ik mijn Calibre zo ingericht dat comics in allemaal in een specifieke map terecht komen. Deze map wordt niet geindexeerd door Nickel (de Kobo UI) zodat ze niet zichtbaar zijn. Om de comics te lezen, heb ik KOReader geinstalleerd op mijn Kobo Libra Colour ('KLC') en deze dusdanig ingericht dat KOReader uitsluitend de map met comics laat zien. 
+
+Download: [Calibre 8.2.100](https://calibre-ebook.com/download)
 
 ## Plugins
 
