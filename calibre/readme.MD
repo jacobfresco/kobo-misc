@@ -5,6 +5,14 @@ Calibre is een tool om epubs te beheren (bibliotheek) en te sideloaden op ereade
 
 Download: [Calibre 8.2.100](https://calibre-ebook.com/download)
 
+## Sideload mode
+Standaard moet je bij het eerste gebruik van een Kobo een account opgeven voor het syncen. Als je dat, net als ik, eigenlijk niet ziet zitten, dan is er een work-around voor. In het bestand 📁[Kobo eReader.conf](https://github.com/jacobfresco/kobo-misc/blob/main/calibre/Kobo%20eReader.conf) staat de optie `SideloadedMode`. Als je die op 'true' zet, dan vervalt deze hele eis en kan je alleen nog maar boeken op je ereader zetten via USB. 
+
+```
+SideloadedMode=true
+```
+Bijkomend voordeel is dat met deze optie de 'homepage' van Kobo, waar ook de reclame voor luisterboeken en Kobo Plus staat, verdwijnt. Mocht je deze pagina wel willen blijven zien, maar wel van de twee genoemde reclames af willen, dan kan dat via [KoboPatch](https://github.com/jacobfresco/kobo-misc/tree/main/kobo-patch)
+
 ## Plugins
 
 - KoboUtilities: [GitHub](https://github.com/majutsushi/kobo-utilities/tree/main) | [Plugin Forum](https://www.mobileread.com/forums/showthread.php?t=215339)
